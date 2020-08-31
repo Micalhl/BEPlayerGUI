@@ -1,0 +1,8 @@
+name: BEPlayerGUI
+version: ${project.version}
+main: me.mical.beplayergui.BEPlayerGUI
+api-version: "1.13"
+authors: [Mical]
+depend: [Vault, TradeSystem]
+commands:
+  beplayergui:

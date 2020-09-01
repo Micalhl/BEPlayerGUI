@@ -6,3 +6,4 @@ authors: [Mical]
 depend: [Vault, TradeSystem]
 commands:
   beplayergui:
+    description: "BEPlayerGUI主命令"

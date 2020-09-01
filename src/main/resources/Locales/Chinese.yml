@@ -3,3 +3,13 @@ Plugin:
   INFO: "&7[&a&l*&7]&r "
   WARN: "&7[&e&l*&7]&r "
   ERROR: "&7[&c&l!&7]&r "
+Lang:
+  ComfirmTeleportPrompt:
+    PromptText: "是否要传送到玩家 &c{0} &7身边? (&cy&7/&cn&7)"
+    SucMsg: "你已传送至玩家 &c{0} &7身边..."
+    RecMsg: "玩家 &c{0} &7已传送到你身边..."
+  Prompt:
+    CancelMsg: "操作已取消."
+  Inventory:
+    SendMsg: "你已经成功向 &c{0} &7发送了交易请求."
+    FailMsg: "由于未知错误, 无法发送交易请求."

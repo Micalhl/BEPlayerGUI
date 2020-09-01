@@ -10,7 +10,6 @@ import org.serverct.parrot.parrotx.utils.I18n;
 
 import java.io.File;
 import java.io.IOException;
-import java.util.Objects;
 
 public class PlayerDataManager extends PData implements Timestamp {
 
